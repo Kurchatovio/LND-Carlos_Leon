@@ -1,1 +1,1 @@
-Este directorio contiene las dos primeras tareas del enuncia junto con las imagenes.
+Este directorio contiene las dos primeras tareas del enunciado junto con las imagenes del segundo ejercicio.
